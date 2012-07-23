@@ -1,0 +1,102 @@
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+
+\documentclass{resume}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+
+\usepackage{hyperref}
+
+\name{Andrew Vos}
+\address{http://www.andrewvos.com}
+\address{(079)~$\cdot$~808~$\cdot$~57010 \\ andrew.vos@gmail.com}
+
+\begin{document}
+  \begin{rSection}{Technical Strengths}
+    \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+    Languages & C\#, Ruby, JavaScript, Python, C, C++, PHP \\
+    Frameworks & Sinatra, Rails, Rack, Web Forms, Windows Forms, ASP.NET MVC \\
+    Databases & MongoDB, MSSQL, MySql, Oracle \\
+    Version Control & Git, Mercurial, Subversion, TFS \\
+    Provisioning & Vagrant, Puppet, Chef
+    \end{tabular}
+  \end{rSection}
+
+  \begin{rSection}{Code}
+    \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+    GitHub & \url{http://www.github.com/AndrewVos} \\
+    StackOverflow & \url{http://stackoverflow.com/users/128167/andrewvos} \\
+    \end{tabular}
+  \end{rSection}
+
+  \begin{rSection}{Work Experience}
+    \begin{rSubsection}{BBC News}{30th August 2011 - Present}{Developer In Test}{London}
+      \item Helped with recruitment of contractors and permanent developers.
+      \item Joined the Responsive News team and pushed the use of BDD/TDD.
+      \item We redesigned the BBC News site using responsive design techniques to allow the site to work on a large range of mobile phones.
+      \item Set up an automated load testing build configuration using Tsung. This build runs a few times every night and allows us to find out if any code changes during the day have negatively impacted our project.
+      \item Designed a vagrant / puppet configuration to automatically provision sandbox environments for developers to run their code on.
+      \item Trained manual testers in the use of Capybara so they could automate some of their manual tests.
+      \item Ran various code dojos to help developers learn Ruby, BDD and TDD.
+      \item Helped the team move over from Subversion to Git.
+      \item Wrote rake tasks to automatically deploy our code to test environments after a successful build.
+      \item Worked on a REST api to list news stories by location for the News Summer Labs project.
+    \end{rSubsection}
+
+    \begin{rSubsection}{ITV}{14th June 2010 - 29th August 2011}{.NET / Ruby Developer}{London}
+      \item Worked on a team writing MRSS integration to allow the BBC to link to ITV videos.
+      \item Worked on a team that wrote a data collection API to allow ITV to display more customizable competitions.
+      \item Worked with a team of ThoughtWorks developers to bring continuous delivery to our team and also improve coding standards throughout the team.
+      \item Moved all developers over to using Moq as a mocking tool, and NUnit as a unit testing framework.
+      \item Helping move our developers over to Mercurial from TFS, and providing training/support during the process.
+      \item Setup of a TeamCity CI server with a small build server farm. We also set up multiple build status monitors to show the state of the build and also the state of our various staging environments.
+      \item One-click deployment for all of our staging/production environments (production is still in progress).
+      \item Automation of the entire build process.
+      \item Training developers in the use of Cucumber, Capybara and Ruby and promoting Acceptance Testing as part of the development process.
+      \item Worked on the fast lane team to deliver important bug fixes directly to production.
+      \item Worked on a number of scripts to improve the process and remove the element of human error.
+      \item Helped deliver the iOS piece which involved working with Akamai using their HLS streaming product to enable people with iOS devices to view streaming adaptive video.
+    \end{rSubsection}
+
+    \begin{rSubsection}{dotCommerce}{24th August 2009 - 13th June 2010}{.NET Developer}{London}
+      \item Integration of our framework into pre-sliced sites and the coding of any bespoke functionality for these sites.
+    \end{rSubsection}
+
+    \begin{rSubsection}{eForte Limited}{5th March 2009 - 24th August 2009}{PHP Developer}{London}
+      \item Small agency
+      \item Contract web development
+    \end{rSubsection}
+
+    \begin{rSubsection}{WickedOrange}{2008 - 2009}{.NET Developer}{Cape Town}
+      \item Freelance web design and development
+    \end{rSubsection}
+
+    \begin{rSubsection}{LandscaperPro}{2005 - 2008}{.NET Developer}{Cape Town}
+      \item Small startup
+      \item Designed and wrote landscape design software
+      \item Sold to gardening stores
+    \end{rSubsection}
+  \end{rSection}
+
+  \begin{rSection}{Open Source}
+    \begin{rSubsection}{Wally}{\url{https://github.com/BBC-News/Wally}}{}{}
+      \item A competitor to the popular relishapp.com. This version is open source and hostable. Wally is used at the BBC and other companies.
+      \item https://github.com/BBC-News/Wally
+    \end{rSubsection}
+
+    \begin{rSubsection}{Spassky}{\url{https://github.com/BBC/spassky}}{}{}
+      \item A test framework used to automate the process of running JS unit tests on multiple devices (mostly mobile phones). Used at the BBC to automate testing on mobile phones.
+      \item https://github.com/BBC/spassky
+    \end{rSubsection}
+
+    \begin{rSubsection}{Coypu}{\url{https://github.com/ITV/Coypu}}{}{}
+      \item A .NET wrapper we wrote at ITV which is meant to be used with SpecFlow to automate the browser.
+      \item https://github.com/ITV/Coypu
+    \end{rSubsection}
+
+    \begin{rSubsection}{rstat.us}{\url{http://rstat.us}}{}{}
+      \item rstat.us - An open source Twitter replacement that started being worked on during Twitter’s recent Terms of Service changes.
+      \item http://rstat.us/
+    \end{rSubsection}
+  \end{rSection}
+\end{document}
