@@ -18,7 +18,7 @@ hr {
   border-color: #333333;
 }
 
-.code pre {
+code pre {
   white-space: pre;
   white-space: pre-wrap;
   word-break: break-all;
