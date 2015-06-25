@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-pdflatex AndrewVos.tex
-rm AndrewVos.aux
-rm AndrewVos.log
-rm AndrewVos.out

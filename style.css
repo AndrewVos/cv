@@ -1,0 +1,40 @@
+body {
+  font-size: 18px;
+  /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+  font-family: Georgia;
+  color: #333333;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #333333;
+  text-decoration: none;
+}
+
+hr {
+  border-color: #333333;
+}
+
+.code pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table th {
+  display: none;
+}
+
+h3 em {
+  color: #959595;
+  font-size: 0.8em;
+}
