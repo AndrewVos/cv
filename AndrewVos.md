@@ -1,4 +1,6 @@
-# Andrew Vos - Developer
+<div class="title">
+  <h1>Andrew Vos &#8226; Developer</h1>
+</div>
 
 <link href="style.css" rel="stylesheet">
 
@@ -8,7 +10,6 @@
 | [andrewvos.com](http://www.andrewvos.com) &#8226; | [github.com/AndrewVos](http://www.github.com/AndrewVos) |
 
 ## About
----
 
 I am a passionate software developer with over a decade of experience.
 I enjoy learning new technologies and delivering simple, well tested software, as fast as possible.
@@ -16,7 +17,6 @@ I enjoy learning new technologies and delivering simple, well tested software, a
 I am great at working remotely, but will also accept on-site roles in London.
 
 ## Recent Projects
----
 
 [**ancientcitadel.com**](http://ancientcitadel.com) is a gif aggregator. It has it's own API
 that converts animated gifs to webm and mp4 formats. Supporting both formats means the videos
@@ -26,7 +26,6 @@ work on all common browsers. Also the size of the gifs is drastically reduced.
 amounts of docker containers running on Amazon EC2.
 
 ## Technical Strengths
----
 
 - Ruby, Go, JavaScript, CSS
 - Postgres, ElasticSearch, MongoDB
@@ -34,7 +33,10 @@ amounts of docker containers running on Amazon EC2.
 - Heroku, Docker, CoreOS, Vagrant, Puppet, Chef
 
 ## Experience
----
+
+### Fullsix London _29th June 2015 to 1st September 2015_
+
+- Major new feature development for [**homemadebyyou.co.uk**](homemadebyyou.co.uk)
 
 ### Featurist _28th May 2013 to 3rd February 2015_
 - Contributed to the shopa.com Rails app
@@ -83,15 +85,14 @@ amounts of docker containers running on Amazon EC2.
 - Created a profitable startup which wrote and sold landscape design software (called LandscaperPro) to the South African gardening industry.
 
 ## Open Source Work
----
 
-- [github.com/AndrewVos/ancientcitadel](https://github.com/AndrewVos/ancientcitadel)
-- [github.com/AndrewVos/garrison](https://github.com/AndrewVos/garrison)
-- [github.com/BBC/spassky](https://github.com/BBC/spassky)
-- [github.com/AndrewVos/docu](https://github.com/AndrewVos/docu)
-- [github.com/BBC-News/Wally](https://github.com/BBC-News/Wally)
-- [github.com/AndrewVos/metherd-missing](https://github.com/AndrewVos/metherd-missing)
-- [github.com/sthulbournanmo](https://github.com/sthulbourn/anmo)
-- [github.com/AndrewVos/arduino-tools](https://github.com/AndrewVos/arduino-tools)
-- [github.com/AndrewVos/komainu](https://github.com/AndrewVos/komainu)
-- [github.com/AndrewVos/oni](https://github.com/AndrewVos/oni)
+- https://github.com/AndrewVos/ancientcitadel
+- https://github.com/AndrewVos/garrison
+- https://github.com/BBC/spassky
+- https://github.com/AndrewVos/docu
+- https://github.com/BBC-News/Wally
+- https://github.com/AndrewVos/metherd-missing
+- https://github.com/sthulbourn/anmo
+- https://github.com/AndrewVos/arduino-tools
+- https://github.com/AndrewVos/komainu
+- https://github.com/AndrewVos/oni
