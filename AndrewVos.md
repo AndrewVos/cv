@@ -34,7 +34,7 @@ amounts of docker containers running on Amazon EC2.
 
 ## Experience
 
-### Fullsix London _29th June 2015 to 1st September 2015_
+### Fullsix London _29th June 2015 to 19th August 2015_
 
 - Major new feature development for [**homemadebyyou.co.uk**](homemadebyyou.co.uk)
 
