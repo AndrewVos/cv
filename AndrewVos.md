@@ -34,6 +34,10 @@ amounts of docker containers running on Amazon EC2.
 
 ## Experience
 
+### Featurist _2nd September 2015 to 9th September 2015_
+
+- Short contract rewriting a site for a large pharmaceutical company
+
 ### Fullsix London _29th June 2015 to 19th August 2015_
 
 - Major new feature development for [**homemadebyyou.co.uk**](homemadebyyou.co.uk)
