@@ -1,5 +1,5 @@
 <div class="title">
-  <h1>Andrew Vos &#8226; Developer</h1>
+  <h1>Andrew Vos &#8226; Senior Ruby Developer</h1>
 </div>
 
 <link href="style.css" rel="stylesheet">
