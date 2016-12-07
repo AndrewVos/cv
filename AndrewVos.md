@@ -30,12 +30,17 @@ amounts of docker containers running on Amazon EC2.
 
 ## Technical Strengths
 
-- Ruby, Go, JavaScript, CSS
+- Ruby, Go, JavaScript, HTML, CSS
 - Postgres, ElasticSearch, MongoDB
 - Git, Mercurial, TFS
-- Heroku, Docker, CoreOS, Vagrant, Puppet, Chef
+- Heroku, Ubuntu, Arch, CoreOS, Docker, Vagrant, Puppet, Chef
 
 ### Experience
+
+#### Pension Wise _20th September 2016_
+
+- Created a telephone appointment booking system for The Pensions Advisory Service.
+- Source is available at [https://github.com/guidance-guarantee-programme/telephone_appointment_planner](https://github.com/guidance-guarantee-programme/telephone_appointment_planner)
 
 #### GDS (Government Digital Service) _4th October 2015 to 25th May 2016_
 
@@ -48,11 +53,11 @@ amounts of docker containers running on Amazon EC2.
 
 #### Fullsix London _29th June 2015 to 19th August 2015_
 
-- Major new feature development for [**homemadebyyou.co.uk**](homemadebyyou.co.uk)
+- Major new feature development for [homemadebyyou.co.uk](homemadebyyou.co.uk)
 
 #### Featurist _28th May 2013 to 3rd February 2015_
-- Contributed to the shopa.com Rails app
-- Devops guy for a large amount of infrastructure, including extensive use of Docker, EC2, Heroku
+- Wrote the shopa.com Rails app
+- Managed all the infrastructure, including extensive use of Docker, AWS, Heroku
 - Wrote many microservices (mostly in Golang) that would pull data for hundreds of millions of products from popular affiliate networks and populate ElasticSearch / Postgres databases.
 - Wrote an image server to handle millions of image requests and control the downloading/resizing of them in Go
 
