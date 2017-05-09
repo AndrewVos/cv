@@ -19,6 +19,8 @@ I am great at working remotely, but will also accept on-site roles in London.
 
 ### Recent Projects
 
+[**filmtriggers.com**](https://filmtriggers.com) the community-curated film trigger list
+
 [**anmo.io**](https://anmo.io/) is a tool to quickly create websites with markdown.
 
 [**ancientcitadel.com**](http://ancientcitadel.com) is a gif aggregator. It has it's own API
