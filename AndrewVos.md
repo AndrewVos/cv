@@ -30,12 +30,13 @@ work on all common browsers. Also the size of the gifs is drastically reduced.
 [**garrison**](https://github.com/AndrewVos/garrison) is a tool used to deploy software to large
 amounts of docker containers running on Amazon EC2.
 
-## Technical Strengths
+## I like working with
 
 - Ruby, Go, JavaScript, HTML, CSS
-- Postgres, ElasticSearch, MongoDB
-- Git, Mercurial, TFS
-- Heroku, Ubuntu, Arch, CoreOS, Docker, Vagrant, Puppet, Chef
+- Postgres, ~~ElasticSearch~~, ~~MongoDB~~
+- Git, ~~Mercurial~~, ~~TFS~~
+- vim
+- Heroku, Ubuntu, ArchLinux, CoreOS, Docker, ~~Vagrant~~, ~~Puppet~~, ~~Chef~~
 
 ### Experience
 
