@@ -40,7 +40,11 @@ amounts of docker containers running on Amazon EC2.
 
 ### Experience
 
-#### Pension Wise _20th September 2016_
+#### ForeignExchange.com (Gain Capital) _23rd January 2017 to 2nd June 2017_
+
+- Rewrote the entire website at foreignexchange.com
+
+#### Pension Wise _20th September 2016 to 20th January 2017_
 
 - Created a telephone appointment booking system for The Pensions Advisory Service.
 - Source is available at [https://github.com/guidance-guarantee-programme/telephone_appointment_planner](https://github.com/guidance-guarantee-programme/telephone_appointment_planner)
