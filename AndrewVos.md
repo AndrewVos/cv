@@ -1,27 +1,36 @@
 <div class="title">
   <h1>Andrew Vos</h1>
-  <h2>Senior full-stack Ruby developer</h2>
+  <h2>Senior full-stack developer</h2>
 </div>
 
 <link href="style.css" rel="stylesheet">
 
 |                                                   |                                                         |
 |--------------------------------------------------:|:--------------------------------------------------------|
-| (079)808-57010 &#8226;                            | work@andrewvos.com                                      |
+| (079)808-57010 &#8226;                            | andrew@andrewvos.com                                    |
 | [andrewvos.com](http://www.andrewvos.com) &#8226; | [github.com/AndrewVos](http://www.github.com/AndrewVos) |
 
 ### About
 
 I am a passionate software developer with over a decade of experience.
-I enjoy learning new technologies and delivering simple, well tested software, as fast as possible.
+Ruby is my preferred language, but I enjoy golang, javascript, and some others.
 
-I am great at working remotely, but will also accept on-site roles in London.
+For work I enjoy delivering simple well tested software on time and under budget.
+
+NOTE: I have recently moved to Cornwall, so I am only taking on remote work.
+
+Interests:
+
+  - Cycling
+  - Dogs
+  - Writing code on prototyping boards... Wemos, Arduino etc.
+  - Playing with my .vimrc and writing scripts for Arch Linux
 
 ### Recent Projects
 
-[**filmtriggers.com**](https://filmtriggers.com) the community-curated film trigger list
+[**myfil.ms**](https://myfil.ms) basically goodreads but for films, and much simpler. Good film recommendations too.
 
-[**anmo.io**](https://anmo.io/) is a tool to quickly create websites with markdown.
+[**anmo.io**](https://anmo.io/) is a tool to quickly create websites with markdown. I use it for [andrewvos.com](andrewvos.com).
 
 [**ancientcitadel.com**](http://ancientcitadel.com) is a gif aggregator. It has it's own API
 that converts animated gifs to webm and mp4 formats. Supporting both formats means the videos
@@ -40,9 +49,23 @@ amounts of docker containers running on Amazon EC2.
 
 ### Experience
 
-#### ForeignExchange.com (Gain Capital) _23rd January 2017 to 2nd June 2017_
+#### Featurist _5th February 2018_
 
-- Rewrote the entire website at foreignexchange.com
+- Working on a project for an undisclosed client
+
+#### Honeycomb.tv _24 July 2017 to 15th December 2018_
+
+- Started off as a Developer then became Tech Lead on the Product Growth team
+- Responsibilites:
+  - Team of six
+  - Making the product infrastructure more stable
+  - Fixing painful performance issues in production
+  - Multiple regional product expansion projects
+
+#### Featurist _23rd January 2017 to 2nd June 2017_
+
+- Rewrote the entire website at foreignexchange.com for Gain Capital
+- Foreign exchange money transfer service
 
 #### Pension Wise _20th September 2016 to 20th January 2017_
 
