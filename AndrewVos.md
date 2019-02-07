@@ -53,7 +53,7 @@ amounts of docker containers running on Amazon EC2.
 
 - Working on a project for an undisclosed client
 
-#### Honeycomb.tv _24 July 2017 to 15th December 2018_
+#### Honeycomb.tv _24 July 2017 to 15th December 2017_
 
 - Started off as a Developer then became Tech Lead on the Product Growth team
 - Responsibilites:
